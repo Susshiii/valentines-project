@@ -1,7 +1,7 @@
-💖 Be My Valentine?
+# 💖 Be My Valentine? 
 This is a cute and interactive Valentine's Day proposal website that makes saying "No" a fun challenge! 🥰
 
-✨ Features
+## ✨ Features
 - 🐻 Adorable Bear GIFs that change with every "No" click, getting sadder each time.
 - 🎨 Interactive Buttons:
 - Clicking No makes the Yes button grow bigger!
@@ -10,7 +10,7 @@ This is a cute and interactive Valentine's Day proposal website that makes sayin
 - 💕 Heart Animation fills the screen when "Yes" is clicked.
 - 🎉 Happy Pikachu GIF appears when "Yes" is chosen!
 
-🛠️ How It Works
+## 🛠️ How It Works
 1. The user sees a cute "Will you be my Valentine?" message with a bear GIF.
 2. Clicking "No":
     - The Yes button gets bigger.
@@ -19,15 +19,15 @@ This is a cute and interactive Valentine's Day proposal website that makes sayin
 3. After 10 "No" clicks, the Yes button expands smoothly to fit the entire screen.
 4. Clicking "Yes" removes the "No" button and triggers floating hearts and a happy Pikachu GIF!
 
-🚀 Live Demo
+## 🚀 Live Demo
 [Click Here to View](https://susshiii.github.io/valentines-project/)
 
-📂 Project Structure/valentine-proposal
+## 📂 Project Structure/valentine-proposal
 - │── index.html        # Main webpage
 - │── style.css         # Styling (if separate)
 - │── script.js         # JavaScript logic (if separate)
 - │── README.md         # Project description
 
-💌 Made with Love
+## 💌 Made with Love
 A fun way to ask your special someone out on Valentine's Day! ❤️
 
