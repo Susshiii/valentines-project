@@ -2,7 +2,7 @@
 This is a cute and interactive Valentine's Day proposal website that makes saying "No" a fun challenge! 🥰
 
 ## ✨ Features
-- 🐻 Adorable Bear GIFs that change with every "No" click, getting sadder each time.
+- 🐻 Adorable GIFs that change with every "No" click.
 - 🎨 Interactive Buttons:
 - Clicking No makes the Yes button grow bigger!
 - After 10 "No" clicks, the Yes button gradually fills the screen.
