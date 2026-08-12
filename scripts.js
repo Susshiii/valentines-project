@@ -17,7 +17,7 @@ document.getElementById("yesBtn").addEventListener("click", sayYes);
 document.getElementById("noBtn").addEventListener("click", growYesButton);
 
 function sayYes() {
-    document.getElementById('message').innerText = "I LOVE YOU THE MOST CUPCAKES! ❤️🥰";
+    document.getElementById('message').innerText = "YAYYYY WUFF WUFF! ❤️🥰";
     document.getElementById('noBtn').style.display = 'none';
     document.getElementById('gif').src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmx3M2R3MWRpYXgwZHRwc3A3bnh0M3k0Mmk3dTV1dXNqejlzeW16NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13G7hmmFr9yuxG/giphy.gif"; // Happy Pikachu
     startHearts();
