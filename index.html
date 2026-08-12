@@ -1,22 +1,55 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BE MY OTHER HALF?</title>
+
+    <title>BE MY OTHER HALF? 💖</title>
+
     <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
-    <div class="container">
-        <h1>Will you go out with me??? 💖</h1>
-        <img id="gif" src="https://media.giphy.com/media/DtBHcARLqNAvVnYsyD/giphy.gif?cid=790b76116d54txe3c5nafra3c1a27wata7dd1l9qtx05tu6g&ep=v1_gifs_search&rid=giphy.gif&ct=g" class="bear-gif" alt="Reaction GIF" class="bear-gif" alt="Reaction GIF" />
-        <p id="message"> </p>
-        <div class="button-container">
-            <button id="yesBtn" class="btn">Yes</button>
-            <button id="noBtn" class="btn">No</button>
+
+    <main class="container">
+
+        <div class="card">
+
+            <div class="sparkles" aria-hidden="true"></div>
+
+            <h1 id="title">Will you go out with me??? 💖</h1>
+
+            <div class="gif-wrapper">
+                <img
+                    id="gif"
+                    class="bear-gif"
+                    src="https://media.giphy.com/media/DtBHcARLqNAvVnYsyD/giphy.gif"
+                    alt="Cute reaction"
+                >
+            </div>
+
+            <p id="message" aria-live="polite"></p>
+
+            <div class="button-container">
+                <button id="yesBtn" class="btn yes-btn" type="button">
+                    Yes 💕
+                </button>
+
+                <button id="noBtn" class="btn no-btn" type="button">
+                    No 😭
+                </button>
+            </div>
+
         </div>
-    </div>
+
+    </main>
+
+    <div id="hearts-container" aria-hidden="true"></div>
 
     <script src="scripts.js"></script>
+
 </body>
 </html>
+
+
